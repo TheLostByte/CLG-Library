@@ -2,7 +2,7 @@
 **Command-line graphics** is a header file which simplifies and gives you access to some Windows console functions.
 
 It can be used to colorize Windows console and text, to draw simple rectangles etc.
-It's my old project, so it's a complete mess and spaghetti code, but I think it's usefull.
+It's my old project, so it's a complete mess, but I think it's usefull.
 
 
 ## How to use?
