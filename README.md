@@ -6,7 +6,7 @@ It's my old project, so it's a complete mess, but I think it's usefull.
 
 
 ## How to use?
-Extract those three files, then include "CLG_library.h" in your project and you are ready to go!
+Extract these three files, then include "CLG_library.h" in your project and you are ready to go!
 For documentation see DOCUMENTATION.md
 
 
